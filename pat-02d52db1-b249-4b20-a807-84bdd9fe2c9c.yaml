@@ -1,0 +1,20 @@
+- defaultTab: nodes
+  description: ''
+  executionEnabled: true
+  id: 02d52db1-b249-4b20-a807-84bdd9fe2c9c
+  loglevel: INFO
+  name: pat
+  nodeFilterEditable: false
+  plugins:
+    ExecutionLifecycle: null
+  scheduleEnabled: true
+  sequence:
+    commands:
+    - script: |-
+        #!/bin/sh
+
+        echo 'pat'
+    keepgoing: false
+    strategy: node-first
+  uuid: 02d52db1-b249-4b20-a807-84bdd9fe2c9c
+

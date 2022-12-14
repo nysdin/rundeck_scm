@@ -1,0 +1,18 @@
+- defaultTab: nodes
+  description: ''
+  executionEnabled: true
+  id: 2022-1214-1913
+  loglevel: INFO
+  name: prod-job
+  nodeFilterEditable: false
+  plugins:
+    ExecutionLifecycle: null
+  scheduleEnabled: true
+  sequence:
+    commands:
+    - script: |-
+        #!/bin/sh
+        echo 'prod'
+    keepgoing: false
+    strategy: node-first
+  uuid: 2022-1214-1913

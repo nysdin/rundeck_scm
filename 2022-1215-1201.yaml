@@ -3,7 +3,7 @@
   executionEnabled: true
   id: 2022-1215-1201
   loglevel: INFO
-  name: 1201
+  name: '1201'
   nodeFilterEditable: false
   plugins:
     ExecutionLifecycle: null

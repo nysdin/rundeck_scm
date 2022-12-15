@@ -3,7 +3,7 @@
   executionEnabled: true
   id: 5047701c-22d9-4739-bf15-a0ce224f914e
   loglevel: INFO
-  name: 504
+  name: '504'
   nodeFilterEditable: false
   plugins:
     ExecutionLifecycle: null

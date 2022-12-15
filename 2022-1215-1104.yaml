@@ -13,5 +13,5 @@
     - script: a
     keepgoing: false
     strategy: node-first
-  uuid:2022-1215-1104
+  uuid: 2022-1215-1104
 

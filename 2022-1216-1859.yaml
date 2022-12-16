@@ -1,6 +1,7 @@
 - defaultTab: nodes
   description: ''
   executionEnabled: true
+  group: group1/subgroup
   id: 2022-1216-1859
   loglevel: INFO
   name: 2022-1216-1859

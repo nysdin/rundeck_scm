@@ -1,9 +1,9 @@
 - defaultTab: nodes
-  description: a
+  description: b
   executionEnabled: true
   id: 4d57cd53-c045-425f-895a-0cd2df979066
   loglevel: INFO
-  name: a
+  name: b
   nodeFilterEditable: false
   plugins:
     ExecutionLifecycle: null

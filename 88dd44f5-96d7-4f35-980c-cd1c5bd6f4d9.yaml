@@ -1,16 +1,16 @@
 - defaultTab: nodes
-  description: c
+  description: d 
   executionEnabled: true
   id: 88dd44f5-96d7-4f35-980c-cd1c5bd6f4d9
   loglevel: INFO
-  name: c
+  name: d
   nodeFilterEditable: false
   plugins:
     ExecutionLifecycle: null
   scheduleEnabled: true
   sequence:
     commands:
-    - script: a
+    - script: d
     keepgoing: false
     strategy: node-first
   uuid: 88dd44f5-96d7-4f35-980c-cd1c5bd6f4d9
